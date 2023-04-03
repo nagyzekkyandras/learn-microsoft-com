@@ -1,0 +1,7 @@
+csharp/training/modules/*/obj/*
+csharp/training/modules/*/obj/Debug/*
+csharp/training/modules/*/*.csproj
+
+csharp/training/modules/*/bin/*
+csharp/training/modules/*/bin/Debug/*
+csharp/training/modules/*/bin/Debug/*/*
